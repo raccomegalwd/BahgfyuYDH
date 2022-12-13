@@ -13,8 +13,6 @@ categories:
     label: 'type: feature'
   - title: 'Bug Fixes'
     label: 'type: bug'
-  - title: 'Refactor'
-    label: 'type: maintenance'
   - title: 'Documentation'
     label: 'type: docs'
   - title: 'Dependency Updates'
